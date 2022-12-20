@@ -1000,6 +1000,7 @@ function fizzBuzz() {
   - **Arrays:**
     - `for` loops: I use them when I need to iterate through the array in steps larger than one.
     - `forEach()`: I use it when I don't need to reference the index as it requires less code.
+    - `map()`: I use it when I want a new array with results from the calling array
     - `for...of` loops: I use them when I might need to `break` from the loop.
   - **Sources:**
     - https://www.frontendinterviewhandbook.com/javascript-questions#what-language-constructions-do-you-use-for-iterating-over-object-properties-and-array-items
